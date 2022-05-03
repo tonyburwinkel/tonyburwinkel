@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BloodySocrates
+- 👋 Hi, I’m @tonyburwinkel
 - 👀 I’m interested in ... Improving life on earth with computer programming
 - 🌱 I’m currently learning ... Web Development, Natural Language Processing
 - 💞️ I’m looking to collaborate on ... 
