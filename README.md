@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tonyburwinkel
 - 👀 I’m interested in ... Software Engineering, Web Development, and Cyber Security
-- 🌱 I’m currently learning ... Web Development, Natural Language Processing
 
 - 📫 How to reach me ... tony.burwinkel@gmail.com
 
@@ -13,6 +12,12 @@
 * Javascript/HTML/CSS
 * Java
 * C
+
+### My Frameworks:
+* node.js
+* React
+* Flask
+* Express
 
 ### My Skills:
 * Web Development
