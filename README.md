@@ -25,6 +25,7 @@
 * Linux Administration
 
 [My Wordpress](https://burwinkela.sites.northeastern.edu/)
+
 [My Other Github](https://github.khoury.northeastern.edu/tonyburwinkel)
 
 <!---
