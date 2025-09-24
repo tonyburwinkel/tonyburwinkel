@@ -1,3 +1,3 @@
 Tony Burwinkel
 
-Cybersecurity Engineer | Information Compliance | Network Administrator
+Cybersecurity Engineer | Network Administrator | Python Programmer
